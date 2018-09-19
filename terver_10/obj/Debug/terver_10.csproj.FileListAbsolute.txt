@@ -1,0 +1,50 @@
+C:\Users\User\source\repos\terver_10\terver_10\bin\Debug\terver_10.exe.config
+C:\Users\User\source\repos\terver_10\terver_10\bin\Debug\terver_10.exe
+C:\Users\User\source\repos\terver_10\terver_10\bin\Debug\terver_10.pdb
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.Form1.resources
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.Properties.Resources.resources
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.csproj.GenerateResource.cache
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.exe
+C:\Users\User\source\repos\terver_10\terver_10\obj\Debug\terver_10.pdb
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\bin\Debug\terver_10.exe.config
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\bin\Debug\terver_10.exe
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\bin\Debug\terver_10.pdb
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.csprojResolveAssemblyReference.cache
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.Form1.resources
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.Properties.Resources.resources
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.csproj.GenerateResource.Cache
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.csproj.CoreCompileInputs.cache
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.exe
+C:\Users\ogenkidesuka\Desktop\terver_10_16052018\terver_10\obj\Debug\terver_10.pdb
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\bin\Debug\terver_10.exe.config
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\bin\Debug\terver_10.exe
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\bin\Debug\terver_10.pdb
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.Form1.resources
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.Properties.Resources.resources
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.exe
+C:\Users\User\Desktop\terver_10_16052018 - Copy\terver_10\obj\Debug\terver_10.pdb
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\bin\Debug\terver_10.exe.config
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\bin\Debug\terver_10.exe
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\bin\Debug\terver_10.pdb
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.csprojResolveAssemblyReference.cache
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.Form1.resources
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.Properties.Resources.resources
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.csproj.GenerateResource.Cache
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.csproj.CoreCompileInputs.cache
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.exe
+C:\Users\ogenkidesuka\Desktop\terver_10_310518\terver_10\obj\Debug\terver_10.pdb
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\bin\Debug\terver_10.exe.config
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\bin\Debug\terver_10.exe
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\bin\Debug\terver_10.pdb
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.Form1.resources
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.Properties.Resources.resources
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.exe
+C:\Users\User\Desktop\terver_10_310518_2\terver_10\obj\Debug\terver_10.pdb
